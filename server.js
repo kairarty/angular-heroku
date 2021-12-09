@@ -1,4 +1,6 @@
+// чтобы появилась папка dist: ng build
 // для установки: npm install --save express path
+// для локального старта: ng s
 const express = require('express');
 const path = require('path');
 const app = express();
